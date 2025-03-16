@@ -10,7 +10,7 @@ warnings.filterwarnings('ignore')  #gnores any warning messages that would be pr
 
 
 #YouTube API Setup
-DEVELOPER_KEY= "AIzaSyC0jUUE8Vx2HF-izu-0ctFWj4mW_aXbu_I" # Retrieves the YouTube API key stored in Streamlit's secrets management system
+DEVELOPER_KEY= "API KEY" # Retrieves the YouTube API key stored in Streamlit's secrets management system
 YOUTUBE_API_SERVICE_NAME='youtube'      #efines the name of the API service, which is youtube.
 YOUTUBE_API_VERSION='v3'
 #Uses the build function from the Google API client to create a client object (youtube) for interacting with the YouTube Data API.
